@@ -1,0 +1,19 @@
+Statistics results for Wed Apr 04 21:03:53 IST 2018
+Dataset: D:\6th_sem\computation bio\PROJECT\gcrma_ES_EB-expression.pgex
+Pathway directory: D:\6th_sem\computation bio\PROJECT\tutorial_files\tutorial_files\pathways
+Gene database: D:\6th_sem\computation bio\PROJECT\tutorial_files\tutorial_files\Mm_lite.pgdb, D:\software\pathvisio database\metabolites_20170826.bridge, D:\software\pathvisio database\interactions_20171211.bridge
+Criterion:  [log Fold EB vs ES] < 1.25 
+Calculation method: pathway-centric. Calculations are performed after mapping data to pathways.
+Total data points (N): 514
+Data points meeting criterion (R): 491
+
+Pathway	positive (r)	measured (n)	total	%	Z Score	p-value (permuted)
+Monoamine GPCRs	28	28	40	100.00%	1.18	0.324
+One Carbon Metabolism	28	28	49	100.00%	1.18	0.234
+Cell cycle	81	83	90	97.59%	0.99	0.239
+ESC Pluripotency Pathways	103	107	114	96.26%	0.41	0.617
+TCA Cycle	27	28	45	96.43%	0.24	0.842
+Blood Clotting Cascade	16	17	22	94.12%	-0.29	0.619
+Apoptosis	78	83	84	93.98%	-0.74	0.469
+Myometrial Relaxation and Contraction Pathways	139	150	161	92.67%	-2.01	0.026
+New Pathway	0	0	0	NaN%	NaN	0.000
